@@ -1,0 +1,4 @@
+So programmers, how to find numbers with repeating digits from say a file with a million random numbers (one per line).
+
+1. Solve it for numbers with only repeating digits - say 3333, 22 etc
+2. Solve it for numbers with *any* repeating digits - 24522, 1353 etc.
