@@ -1,0 +1,9 @@
+1. You have two big files, each with a million numbers, each number ranging from 1 to a million, one per line.
+2. Find pairs (x,y) *across* these files whose sum add to 1 million.
+3. Print all such numbers as a tuple.
+
+For example, if first file has 282215 and second has 717785, print 
+
+(282215, 717785)
+
+Print everything - including duplicates and (y,x) where (x,y) is present etc.
